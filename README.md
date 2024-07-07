@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastián Valencia</h1>
 <h3 align="center">I am 20 years old and currently studying Software Engineering at Pontificia Universidad Católica de Chile (PUC).</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebastianval22" alt="sebastianval22" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript.**
 
