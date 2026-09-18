@@ -23,7 +23,7 @@
 
 ### 🏆 Featured Work
 *   **[GeriaPOP](#)**: Engineered an offline-first mobile health platform using React Native, TypeScript, Python, and AWS to digitize geriatric clinical tests in zero-connectivity hospital environments.
-*   **[Tic-Tac-Goal](#)**: Built a real-time multiplayer system utilizing React, Node.js, PostgreSQL, and WebSockets, achieving sub-50ms latency for live gameplay.
+*   **[Tic-Tac-Goal](https://github.com/sebastianval22/tictacgoal-frontend-showcase)**: Built a real-time multiplayer system utilizing React, Koa.js, PostgreSQL, and WebSockets, achieving sub-50ms latency for live gameplay. ([backend](https://github.com/sebastianval22/tictacgoal-backend-showcase))
 
 
 > 📂 **Want to see more?** You can explore all my academic coursework, algorithms, and full-stack implementations in my **[School Projects Repository](https://github.com/sebastianval22/school-projects)**.
