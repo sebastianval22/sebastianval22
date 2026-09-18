@@ -2,7 +2,7 @@
 <h3 align="center">I am 21 years old and currently studying Software Engineering at Pontificia Universidad Católica de Chile (PUC).</h3>
 
 
-- 🌱 I’m currently learning **High Performance Computing.**
+- 🌱 I’m currently learning **Testing.**
 
 - 📝 These are some of my university projects. [Link to repo](https://github.com/sebastianval22/school-projects)
 
